@@ -1,7 +1,7 @@
 
 # Pizza Order Manager - CS_Pizzeria
 
-This project was part of the COMP1511 course at UNSW. It simulates the operations of a pizzeria, including managing orders, tracking ingredients, and calculating profits. Originally submitted in 2021 T3, it has been refined into a standalone project for demonstration purposes.
+This project simulates the operations of a pizzeria, including managing orders, tracking ingredients, and calculating profits. It has been refined into a standalone project for demonstration purposes and was developed during my undergraduate studies.
 
 ## Features
 
@@ -95,4 +95,4 @@ To simulate basic pizzeria operations:
 
 ## Acknowledgments
 
-This project was inspired by coursework for **COMP1511** at UNSW. Original concepts and ideas were refined into this standalone demonstration.
+This project was inspired by the coursework at UNSW. Original concepts and ideas were refined into this standalone demonstration.
